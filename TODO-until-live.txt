@@ -1,0 +1,49 @@
+--------------------------
+---- MD BOOTSTRAP KEY ----
+--------------------------
+zYzzGAPxVUe1Qx44c_6X
+--------------------------
+---- DO NOT DELETE -------
+--------------------------
+
+TODO until live
+
+Visual Fixes:
+-------------
+#Matching URLs? --> URL 301 Redirects
+#SolarScreen Frames
+#Color Options not all correct: Modals not fully working + InfoGraphics as modals
+#Images: Fix Pet Door Measuring Guide(photoshop - larger)
+#SecurityDoorColors - add the rest of the colors
+#Mobile galleries height to big ?
+#Fix images in Products Thumbnails Gallery: should not cut out the door
+#Update image for Window Screen Repair: (newer truck)
+#Include correct images to Home Carousel: [Look through notes ..]
+#Carousel Buttons
+#Quoteform select or auto complete ?
+#Related Projects Tab in [TabSection] should be hyperlinked
+#Fix Breadcrumb Navbar
+#*Blog section: Simple, keep pre-exisiting format, add a couple posts ==> 3-5 posts
+#Page Not Found Component
+#Images: Individual Steel Doors, Swing Doors [more bullets] ==> Go through every page*
+#Include Locations Lists in about page: missing actual locations from drive
+#Content: Chimney Services, Grid Pages, Individual Steel Doors [more bullets] ==> Go through every page*
+
+//Include App Information in Chimney Inspection Page [Review Notes]: Tablet Image photoshop
+Quote Form (submit function): emailjs redirect on submitFomr
+Thank You page redirect after Quote form is completed
+
+
+SEO Fixes:
+----------
+#Titles
+
+ReCaptcha
+Meta Tags
+Hidden SEO Location Landing Pages
+Adwords Landing Pages
+Sitemap
+? Google Analytics Conversions
+? Facebook Pixels Tracker
+
+IMAGES @ http://reyesmasonrycontractor.com
